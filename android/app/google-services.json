@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "735697458441",
+    "firebase_url": "https://doccalander-d8fd8.firebaseio.com",
+    "project_id": "doccalander-d8fd8",
+    "storage_bucket": "doccalander-d8fd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735697458441:android:1bc5673983325318752fd8",
+        "android_client_info": {
+          "package_name": "com.example.doccalander"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735697458441-fd0ijo52g81h27mg3dea5b609o1d5nq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-S_ArBsEFxxEnFxIi2sJyteBkGC2_0VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735697458441-fd0ijo52g81h27mg3dea5b609o1d5nq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
